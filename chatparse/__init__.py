@@ -1,3 +1,5 @@
+import json
+
 from .links import find_links
 from .mentions import find_mentions
 from .emoticons import find_emoticons
